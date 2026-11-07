@@ -10,14 +10,3 @@ Los datos vienen de [Minecraft API](https://minecraft-api-dusky.vercel.app/docum
 pnpm install
 pnpm dev
 ```
-
-## Rutas
-
-| Ruta | Vista |
-| --- | --- |
-| `/` | Inicio |
-| `/explorar` | Lista de mobs con búsqueda y filtro |
-| `/explorar/:id` | Detalle de un mob |
-| `/favoritos` | Mobs guardados |
-| `/contacto` | Formulario de contacto |
-| `*` | Página 404 |
