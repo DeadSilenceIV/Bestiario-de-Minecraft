@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "VT323", monospace;
+  --font-titulo: "Press Start 2P", monospace;
+}
